@@ -51,5 +51,5 @@ What you did, and the tools you used.
 [View project](link)
 
 ## Contact
-- Email: you@gmail.com
+- Email: chukwukeregolden@gmail.com
 - [LinkedIn](your-linkedin-link)
